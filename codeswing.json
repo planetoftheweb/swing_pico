@@ -1,0 +1,6 @@
+{
+  "scripts": [],
+  "styles": [
+    "https://unpkg.com/@picocss/pico@latest/css/pico.min.css"
+  ]
+}

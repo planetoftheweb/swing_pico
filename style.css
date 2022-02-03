@@ -5,11 +5,7 @@
 }
 
 .hero {
-<<<<<<< Updated upstream
   background-image: url(https://pixelprowess.com/i/pow-laptopgrab.jpg);
-=======
-  background-image: url("https://pixelprowess.com/i/pow-laptopgrab.jpg");
->>>>>>> Stashed changes
   background-position: center;
   background-size: cover;
   height: 300px;
